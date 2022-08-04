@@ -15,3 +15,8 @@ Thrust vector controlled model rocket simulink simulation. Allows user to tune P
 - then input that number inside the division block. What is given back is your gain, proceed to do this for the P gain and lastly the I gain
 
 -----------------------------
+
+
+
+https://user-images.githubusercontent.com/110515940/182744211-9c7fa75a-df71-434f-b081-017df14f76f6.mp4
+
